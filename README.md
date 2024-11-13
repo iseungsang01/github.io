@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>이승상의 웹페이지</title>
   <link rel="stylesheet" href="styles.css"> <!-- 외부 스타일시트를 연결 -->
 </head>
 <body>
   <!-- 페이지 상단 -->
   <header>
+    <title>이승상의 웹페이지</title>
     <h1>이승상</h1>
     <p>핵공학 및 농촌 시스템 공학을 전공하는 열정적인 학도입니다.</p>
   </header>
