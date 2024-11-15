@@ -40,10 +40,5 @@
     </section>
   </main>
 
-  <!-- Footer Section -->
-  <footer>
-    <p>&copy; 2024 Seung Sang Lee. All Rights Reserved.</p>
-  </footer>
-
 </body>
 </html>
