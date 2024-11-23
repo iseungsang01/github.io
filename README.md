@@ -34,25 +34,3 @@ This is the **Leadership Experience** section.
 
 ## 💻 Skills and Interests ⭐
 This is the **Skills and Interests** section.
-
-
-You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
-
-### [🔗 Awesome Github Profile ](https://zzetao.github.io/awesome-github-profile/)
-
-# 🚩 What do we do after seeing these profiles ?
-
-Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your github profile, which you can access from the list below.
-
-
-#### 10 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
-
-Some badges I created for my GitHub profile readme.
-
-📍 For example :
-<br/>
-<br/>
-src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img 
-<br/>
-<br/>
-
