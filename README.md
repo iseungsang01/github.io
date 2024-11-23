@@ -12,10 +12,11 @@ Bachelor Student of Nuclear System Engineering and Rural Systems Engineering
 ## 📖 Education
 **Seoul National University, Rural Systems Engineering / Nuclear System Engineering**  
 Bachelor of Rural Systems Engineering, Double major in Nuclear System Engineering   
-Expected Graduation: February 2027  
+2020.03 - Present (Expected Graduation: February 2027) 
 Cumulative GPA : 3.94 / 4.30  
 
 **Honors / Awards**  
+Agricultural Engineering Creativity Fair(AGENC FAIR)	( 3rd place 🥉 – summer semester, 2024 )
 
 **Scholarships**  
 On-Campus Customized Scholarship ( half - 1st semester, 2021 )  
@@ -33,4 +34,6 @@ This is the **Project Experience** section.
 This is the **Leadership Experience** section.
 
 ## 💻 Skills and Interests ⭐
-This is the **Skills and Interests** section.
+Programming : C, Python, Arduino
+Software : Excel (including Excel macro), AutoCAD, GIS(Geographic Information System)
+
