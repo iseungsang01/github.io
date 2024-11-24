@@ -54,17 +54,33 @@ This is the **Project Experience** section.
 ## 🚩 Leadership Experience
 This is the **Leadership Experience** section.
 
-## 💻 Skills and Interests ⭐
-Programming : C, Python, Arduino (Advanced), Matlab (Medium) Html, Markdown, R (Beginner)
-Software : Excel (including Excel macro), AutoCAD, 3dsMax, ArcGIS(Geographic Information System), 
-(Addition - Not commonly used : ANSYS, COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS, Flow3D)
-License : 
+## 💻 **Skills and Interests** 
 
-Korean History Proficiency Test ( 
-Language : Korean(Native), English(Fluent)
+### 🖥️ **Programming Skills**
+- **Advanced:** C, Python, Arduino  
+- **Intermediate:** Matlab  
+- **Beginner:** HTML, Markdown, R  
 
+### 🛠️ **Software Proficiency**
+- **Main Tools:**  
+  - Excel (including Excel Macro), AutoCAD, 3dsMax, ArcGIS (Geographic Information System)  
+- **Additional Tools (Not Commonly Used):**  
+  - ANSYS, COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS, Flow3D  
 
-## Contact
-Email : lss010330@snu.ac.kr
-Linkedin : https://www.linkedin.com/in/%EC%8A%B9%EC%83%81-%EC%9D%B4-55560a27a/
-GitHub:  https://github.com/iseungsang01/github.io/
+### 🏅 **Certifications & Licenses**
+- ADsP
+- Craftsman Information Processing
+- Driver's License (Class 2 – Ordinary)
+- Korean History Proficiency Test
+
+### 🌍 **Languages**
+- **Korean:** Native  
+- **English:** Fluent  
+
+---
+
+## 📬 **Contact**
+- **Email:** [lss010330@snu.ac.kr](mailto:lss010330@snu.ac.kr)  
+- **LinkedIn:** [승상 이](https://www.linkedin.com/in/%EC%8A%B9%EC%83%81-%EC%9D%B4-55560a27a/)  
+- **GitHub:** [iseungsang01](https://github.com/iseungsang01/github.io/)  
+
