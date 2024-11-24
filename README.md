@@ -55,8 +55,14 @@ This is the **Project Experience** section.
 This is the **Leadership Experience** section.
 
 ## 💻 Skills and Interests ⭐
-Programming : C, Python, Arduino
-Software : Excel (including Excel macro), AutoCAD, GIS(Geographic Information System)
+Programming : C, Python, Arduino (Advanced), html, markdown, R (Beginner)
+Software : Excel (including Excel macro), AutoCAD, 3dsMax, ArcGIS(Geographic Information System), 
+(Addition - Not commonly used : ANSYS, COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS, Flow3D)
+License : 
+
+Korean History Proficiency Test ( 
+Language : Korean(Native), English(Fluent)
+
 
 ## Contact
 Email : lss010330@snu.ac.kr
