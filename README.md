@@ -58,3 +58,7 @@ This is the **Leadership Experience** section.
 Programming : C, Python, Arduino
 Software : Excel (including Excel macro), AutoCAD, GIS(Geographic Information System)
 
+## Contact
+Email : lss010330@snu.ac.kr
+Linkedin : https://www.linkedin.com/in/%EC%8A%B9%EC%83%81-%EC%9D%B4-55560a27a/
+GitHub:  https://github.com/iseungsang01/github.io/
