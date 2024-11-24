@@ -17,12 +17,12 @@ Seoul National University
 ## 📖 **Education**
 
 ### 🎓 **Seoul National University**  
-**Double Major:** Rural Systems Engineering & Nuclear Systems Engineering  
+**Major:** Rural Systems Engineering & Nuclear Systems Engineering  
 📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2027)  
 📈 **Cumulative GPA:** 3.94 / 4.30  
 
 ### 🎓 **Daejeon Science High School for the Gifted**  
-**Concentration:** Physics  
+**Major:** Physics  
 📅 **Duration:** 2017.03 - 2020.02  
 
 ---
