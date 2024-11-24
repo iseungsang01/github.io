@@ -55,7 +55,7 @@ This is the **Project Experience** section.
 This is the **Leadership Experience** section.
 
 ## 💻 Skills and Interests ⭐
-Programming : C, Python, Arduino (Advanced), html, markdown, R (Beginner)
+Programming : C, Python, Arduino (Advanced), Matlab (Medium) Html, Markdown, R (Beginner)
 Software : Excel (including Excel macro), AutoCAD, 3dsMax, ArcGIS(Geographic Information System), 
 (Addition - Not commonly used : ANSYS, COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS, Flow3D)
 License : 
