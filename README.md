@@ -1,34 +1,52 @@
-# Seung Sang LEE
+# **Seung Sang LEE**
 
-Bachelor Student of Nuclear System Engineering and Rural Systems Engineering
+**Bachelor Student of Nuclear Systems Engineering and Rural Systems Engineering**  
+Seoul National University  
 
-# 📖 Table of Contents
+---
+
+# 📖 **Table of Contents**
 
 - [📖 Education](#-education)
 - [💡 Project Experience](#-project-experience)
 - [🚩 Leadership Experience](#-leadership-experience)
 - [💻 Skills and Interests ⭐](#-skills-and-interests-)
 
-## 📖 Education
-**Seoul National University, Rural Systems Engineering / Nuclear System Engineering**  
-Bachelor of Rural Systems Engineering, Double major in Nuclear System Engineering   
-2020.03 - Present (Expected Graduation: February 2027) 
-Cumulative GPA : 3.94 / 4.30  
-**Daejeon Science High School for the Gifted**
-Physics
-2017.03 - 2020.02
+---
 
-**Honors / Awards**  
-Agricultural Engineering Creativity Fair(AGENC FAIR)	( 3rd place 🥉 – summer semester, 2024 )
+## 📖 **Education**
 
-**Scholarships**  
-On-Campus Customized Scholarship ( half - 1st semester, 2021 )  
+### 🎓 **Seoul National University**  
+**Double Major:** Rural Systems Engineering & Nuclear Systems Engineering  
+📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2027)  
+📈 **Cumulative GPA:** 3.94 / 4.30  
 
-Agricultural Engineers Scholarship ( half - 1st semester, 2021, 2nd semester, 2021 )  
+### 🎓 **Daejeon Science High School for the Gifted**  
+**Concentration:** Physics  
+📅 **Duration:** 2017.03 - 2020.02  
 
-Dongwon Scholarship ( full – 1st semester, 2024 )  
+---
 
-Sangrok Cultural Foundation Scholarship ( full – 2nd semester, 2024 )  
+### 🏅 **Honors / Awards**  
+- **Agricultural Engineering Creativity Fair (AGENC FAIR)**  
+  🥉 *3rd Place* – Summer Semester, 2024  
+
+---
+
+### 🎓 **Scholarships**  
+- **On-Campus Customized Scholarship**  
+  💰 Half – 1st Semester, 2021  
+
+- **Agricultural Engineers Scholarship**  
+  💰 Half – 1st Semester, 2021  
+  💰 Half – 2nd Semester, 2021  
+
+- **Dongwon Scholarship**  
+  💰 Full – 1st Semester, 2024  
+
+- **Sangrok Cultural Foundation Scholarship**  
+  💰 Full – 2nd Semester, 2024  
+
 
 ## 💡 Project Experience
 This is the **Project Experience** section.
