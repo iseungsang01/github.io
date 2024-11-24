@@ -14,6 +14,9 @@ Bachelor Student of Nuclear System Engineering and Rural Systems Engineering
 Bachelor of Rural Systems Engineering, Double major in Nuclear System Engineering   
 2020.03 - Present (Expected Graduation: February 2027) 
 Cumulative GPA : 3.94 / 4.30  
+**Daejeon Science High School for the Gifted**
+Physics
+2017.03 - 2020.02
 
 **Honors / Awards**  
 Agricultural Engineering Creativity Fair(AGENC FAIR)	( 3rd place 🥉 – summer semester, 2024 )
