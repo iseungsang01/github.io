@@ -10,7 +10,7 @@ Seoul National University
 - [📖 Education](#-education)
 - [💡 Project Experience](#-project-experience)
 - [🚩 Leadership Experience](#-leadership-experience)
-- [💻 Skills and Interests ⭐](#-skills-and-interests-)
+- [💻 Skills and Interests](#-skills-and-interests-)
 
 ---
 
@@ -54,22 +54,22 @@ This is the **Project Experience** section.
 ## 🚩 Leadership Experience
 This is the **Leadership Experience** section.
 
-## 💻 **Skills and Interests** 
+## 💻 **Skills and Interests ** 
 
 ### 🖥️ **Programming Skills**
 - **Advanced:** C, Python, Arduino  
-- **Intermediate:** Matlab  
+- **Intermediate:** Matlab
 - **Beginner:** HTML, Markdown, R  
 
 ### 🛠️ **Software Proficiency**
 - **Main Tools:**  
   - Excel (including Excel Macro), AutoCAD, 3dsMax, ArcGIS (Geographic Information System)  
 - **Additional Tools (Not Commonly Used):**  
-  - ANSYS, COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS, Flow3D  
+  - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS  
 
 ### 🏅 **Certifications & Licenses**
-- ADsP
-- Craftsman Information Processing
+- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none)
+- [Craftsman Information Processing](
 - Driver's License (Class 2 – Ordinary)
 - Korean History Proficiency Test
 
