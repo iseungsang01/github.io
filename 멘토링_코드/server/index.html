@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Score Display</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #282c34;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            width: 300px;
+        }
+        .score {
+            font-size: 2.5em; 
+            color: #61dafb; /* 하이스코어 색상 */
+            margin: 20px 0;
+        }
+        .button {
+            background-color: #61dafb;
+            color: #282c34;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #21a1f1; /* 버튼 hover 효과 */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>High Score</h1>
+    <div class="score" id="highScore">Loading...</div>
+    <button class="button" onclick="updateScore()">Update Score</button>
+</div>
+
+<script>
+    async function fetchHighScore() {
+        const response = await fetch('http://127.0.0.1:5000/get_data');
+        const data = await response.json();
+        document.getElementById('highScore').innerText = `High Score: ${data.high_score}`; 
+    }
+
+    async function updateScore() {
+        const newScore = Math.floor(Math.random() * 20); // 랜덤 점수 생성 (0~19)
+        const response = await fetch('http://127.0.0.1:5000/send_data', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ score: newScore })
+        });
+        const data = await response.json();
+        document.getElementById('highScore').innerText = `High Score: ${data.new_high_score}`;
+    }
+
+    window.onload = fetchHighScore;
+</script>
+
+</body>
+</html>
