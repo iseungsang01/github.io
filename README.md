@@ -61,9 +61,9 @@ This is the **Leadership Experience** section.
 - **Intermediate:** Matlab
 - **Beginner:** HTML, Markdown, R  
 
-### 🛠️ **Software Proficiency**
-- **Main Tools:**  
-  - Excel (including Excel Macro), AutoCAD, 3dsMax, ArcGIS (Geographic Information System)  
+### 🛠️ **Software**
+- **Softwares:**  
+  - Excel (including Excel Macro), PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System)
 - **Additional Tools (Not Commonly Used):**  
   - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS  
 
