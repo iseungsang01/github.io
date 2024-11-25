@@ -52,7 +52,12 @@ Seoul National University
 This is the **Project Experience** section.
 
 ## 🚩 Leadership Experience
-This is the **Leadership Experience** section.
+Team Manager - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering (2024.09 - Now)
+Team Manager - 
+Vice President - Rural Systems Engineering (2021.03 - 2021.08)
+
+## 🚩 Volunteer work
+
 
 ## 💻 **Skills and Interests** 
 
@@ -76,6 +81,9 @@ This is the **Leadership Experience** section.
 ### 🌍 **Languages**
 - **Korean:** Native  
 - **English:** Fluent  
+
+### 🎲 **Interest**
+- Educational Volunteer, Play Boardgame, Read Mystery Novel
 
 ---
 
