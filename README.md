@@ -68,7 +68,7 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 
 ### 🛠️ **Software**
 - **Softwares:**  
-  - Excel (including Excel Macro) PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System), OBS(Open Broadcaster Software)
+  - Excel (including Excel Macro), PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System), OBS(Open Broadcaster Software)
 - **Additional Tools (Not Commonly Used):**  
   - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS  
 
@@ -84,9 +84,13 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 
 ### 🎲 **Interest**
 - Educational Volunteer
-- Play Boardgame
-- Read Mystery Novel
+- Boardgame, Mystery Books, Room Escape
+- Quantum Mechanics, Qiskit 
 
+### 🎲 **Clubs**
+- [Churrus](https://churrus.vercel.app/) (2021.09-2022.03, 2024.09-Present)
+- [SQRT](https://sites.google.com/view/sqrt-quantum/home) (2024.09-Present)
+  
 ---
 
 ## 📬 **Contact**
