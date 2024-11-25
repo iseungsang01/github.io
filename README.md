@@ -85,7 +85,8 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 ### 🎲 **Interest**
 - Educational Volunteer
 - Boardgame, Mystery Books, Room Escape
-- Quantum Mechanics, Qiskit 
+- Quantum Mechanics, Qiskit
+- Economics & Stocks, Business Strategy
 
 ### 🎲 **Clubs**
 - [Churrus](https://churrus.vercel.app/) (2021.09-2022.03, 2024.09-Present)
