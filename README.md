@@ -73,8 +73,8 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
   - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS  
 
 ### 🏅 **Certifications & Licenses**
-- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none)(2024.11)
-- [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#)(2022.03_ID #:21404072966N)
+- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (2024.11)
+- [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#) (2022.03 - ID # : 21404072966N)
 - Driver's License (Class 2 – Ordinary)
 - Korean History Proficiency Test
 
