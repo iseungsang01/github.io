@@ -53,7 +53,7 @@ This is the **Project Experience** section.
 
 ## 🚩 Leadership Experience
 Team Manager - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering (2024.09 - Now)
-Team Manager - 
+Team Manager - SQRT Study Group 
 Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 
 ## 🚩 Volunteer work
@@ -68,7 +68,7 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 
 ### 🛠️ **Software**
 - **Softwares:**  
-  - Excel (including Excel Macro), PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System)
+  - Excel (including Excel Macro) PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System), OBS(Open Broadcaster Software)
 - **Additional Tools (Not Commonly Used):**  
   - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS  
 
