@@ -83,7 +83,9 @@ Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 - **English:** Fluent  
 
 ### 🎲 **Interest**
-- Educational Volunteer, Play Boardgame, Read Mystery Novel
+- Educational Volunteer
+- Play Boardgame
+- Read Mystery Novel
 
 ---
 
