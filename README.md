@@ -52,7 +52,7 @@ Seoul National University
 This is the **Project Experience** section.
 
 ## 🚩 Leadership Experience
-Team Manager - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering (2024.09 - Present)  
+Team Manager - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
 Team Manager - SQRT Study Group (2024.09 - Present)  
 Vice President - Rural Systems Engineering (2021.03 - 2021.08)
 
