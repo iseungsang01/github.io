@@ -18,7 +18,7 @@ Seoul National University
 
 ### 🎓 **Seoul National University**  
 **Major:** Rural Systems Engineering & Nuclear Systems Engineering  
-📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2027)  
+📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
 📈 **Cumulative GPA:** 3.94 / 4.30  
 
 ### 🎓 **Daejeon Science High School for the Gifted**  
@@ -28,8 +28,8 @@ Seoul National University
 ---
 
 ### 🏅 **Honors / Awards**  
-- **Agricultural Engineering Creativity Fair (AGENC FAIR)**  
-  🥉 *3rd Place* – Summer Semester, 2024  
+- [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
+  🥉 *3rd Place* – Summer Semester, 2024 - Team. 구조대
 
 ---
 
@@ -59,7 +59,7 @@ This is the **Leadership Experience** section.
 ### 🖥️ **Programming Skills**
 - **Advanced:** C, Python, Arduino  
 - **Intermediate:** Matlab
-- **Beginner:** HTML, Markdown, R  
+- **Beginner:** HTML, Markdown, R
 
 ### 🛠️ **Software**
 - **Softwares:**  
