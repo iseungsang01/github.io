@@ -10,7 +10,7 @@ Seoul National University
 - [📖 Education](#-education)
 - [💡 Project Experience](#-project-experience)
 - [🚩 Leadership Experience](#-leadership-experience)
-- [💻 Skills and Interests](#-skills-and-interests-)
+- [💻 Skills and Interests](#-skills-and-interests)
 
 ---
 
@@ -54,7 +54,7 @@ This is the **Project Experience** section.
 ## 🚩 Leadership Experience
 This is the **Leadership Experience** section.
 
-## 💻 **Skills and Interests ** 
+## 💻 **Skills and Interests** 
 
 ### 🖥️ **Programming Skills**
 - **Advanced:** C, Python, Arduino  
