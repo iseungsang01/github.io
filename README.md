@@ -81,7 +81,7 @@ Seoul National University
 
 ## 🚩 Volunteer work
 [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
-[Chungbuk Science Gifted Mentoring](https://github.com/iseungsang01/github.io/blob/iseungsang01-patch-1/%EB%A9%98%ED%86%A0%EB%A7%81_%EC%BD%94%EB%93%9C/rhythmgame.py) (2024.07 - 2024.11)
+[Chungbuk Science Gifted Mentoring] (2024.07 - 2024.11)
 <br><br>
 
 ---
