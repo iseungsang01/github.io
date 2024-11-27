@@ -51,7 +51,17 @@ Seoul National University
 
 
 ## 💡 Project Experience
-This is the **Project Experience** section.
+### **Bachelor's thesis**
+🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model
+📅 **Duration:** 2024.09 - 2024.12
+
+### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
+🎓 **Topic:** PEB structure standardization
+📅 **Duration:** 2024.07 - Present
+
+### **[Creating a Labyrinth Game using ChatGPT : for Beginners](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)**  
+📅 **Duration:** 2024.09 - 2024.10
+
 
 ## 🚩 Leadership Experience
 **Team Manager** - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
