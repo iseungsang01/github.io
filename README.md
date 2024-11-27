@@ -76,7 +76,7 @@ This is the **Project Experience** section.
 ### 🏅 **Certifications & Licenses**
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (2024.11)
 - [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#) (2022.03 - ID # : 21404072966N)
-- Driver's License (Class 2 – Ordinary) (
+- Driver's License (Class 2 – Ordinary) (2021.03)
 - Korean History Proficiency Test
 
 ### 🌍 **Languages**
