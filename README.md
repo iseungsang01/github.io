@@ -1,8 +1,9 @@
 # **Seung Sang LEE**
 
 **Bachelor Student of Nuclear Systems Engineering and Rural Systems Engineering**  
-Seoul National University  
-![이승상_증명사진](https://github.com/user-attachments/assets/ce4e8b10-60fe-4519-86fd-331f91b8b9ba)
+Seoul National University 
+  
+<img src="https://raw.githubusercontent.com/iseungsang01/github.io/main/%EC%9D%B4%EC%8A%B9%EC%83%81_%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg?raw=true" alt="이승상_증명사진" width="100">
 
 ---
 
