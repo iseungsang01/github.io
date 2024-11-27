@@ -1,4 +1,4 @@
-# **Seung Sang LEE**
+# **Seung Sang, LEE**
 
 **Bachelor Student of Nuclear Systems Engineering and Rural Systems Engineering**  
 Seoul National University 
