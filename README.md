@@ -52,14 +52,14 @@ Seoul National University
 
 ## 💡 Project Experience
 ### **Bachelor's thesis**
-🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model
+🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model  
 📅 **Duration:** 2024.09 - 2024.12
 
 ### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
-🎓 **Topic:** PEB structure standardization
+🎓 **Topic:** PEB structure standardization  
 📅 **Duration:** 2024.07 - Present
 
-### **[Creating a Labyrinth Game using ChatGPT : for Beginners](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)**  
+### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
 
