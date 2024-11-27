@@ -2,6 +2,7 @@
 
 **Bachelor Student of Nuclear Systems Engineering and Rural Systems Engineering**  
 Seoul National University  
+![이승상_증명사진](https://github.com/user-attachments/assets/ce4e8b10-60fe-4519-86fd-331f91b8b9ba)
 
 ---
 
