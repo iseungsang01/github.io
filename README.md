@@ -37,10 +37,10 @@ Seoul National University
 
 ### 🏅 **Honors / Awards**  
 - [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
-  🥉 *3rd Place* (Excellence prize) – Summer Semester, 2024 - Team. 구조대 (Team Leader)
+  🥉 *3rd Place* (Excellence prize) / Summer Semester, 2024 / Team. 구조대 (Team Leader)
   
 - [**Nuclear Creativity Contest**](https://www.kaeri.re.kr/artie/board/view?pageNum=3&rowCnt=10&menuId=MENU00332&schType=0&schYear=&schText=&categoryId=&continent=&country=&boardStyle=&linkId=3176)  
-  🥈 2nd Place (Gold prize) - 2nd Semester, 2018 - Team. 아이존 (Team Leader)
+  🥈 2nd Place (Gold prize) / 2nd Semester, 2018 / Team. 아이존 (Team Leader)
 <br>
 
 ---
