@@ -87,7 +87,9 @@ Seoul National University
 ## 🚩 Leadership Experience
 ### **Team Manager** 
  - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
- - SQRT Study Group (2024.09 - Present)  
+ - SQRT Study Group (2024.09 - Present)
+ - Agricultural Engineering Creativity Fair (AGENC FAIR) (2024.07 - 2024.08)
+ - Nuclear Creativity Contest (2018.09-2018.11)
 ### **Squad Leader**
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
 ### **Vice President**
