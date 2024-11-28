@@ -70,6 +70,8 @@ Seoul National University
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
+### **Patent Application**
+📅 **Duration:** 2017.09 - 2018.02
 <br><br>
 
 ---
@@ -87,6 +89,7 @@ Seoul National University
 [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
 Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
 Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)
+Laos 
 <br><br>
 
 ---
