@@ -102,7 +102,7 @@ Seoul National University
  - Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
  - Laos Science Educational Volunteer (2017.11 - 2018.01)
    
-### 🛡️ Military service
+### 🛡️ Military Service
  - Airman (Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
 <br><br>
 
