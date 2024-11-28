@@ -13,6 +13,7 @@ Seoul National University
 - [📖 Education](#-education)
 - [💡 Project Experience](#-project-experience)
 - [🚩 Leadership Experience](#-leadership-experience)
+- [🚩 Volunteer work](#-volunteer-work)
 - [💻 Skills and Interests](#-skills-and-interests)
 <br>
 
@@ -78,19 +79,19 @@ Seoul National University
 ---
 
 ## 🚩 Leadership Experience
-**Team Manager** - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
-**Team Manager** - SQRT Study Group (2024.09 - Present)  
-**Squad Leader** - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
-**Vice President** - Rural Systems Engineering (2021.03 - 2021.08)
+ - **Team Manager** - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)
+ - **Team Manager** - SQRT Study Group (2024.09 - Present)  
+ - **Squad Leader** - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
+ - **Vice President** - Rural Systems Engineering (2021.03 - 2021.08)
 <br><br>
 
 ---
 
 ## 🚩 Volunteer work
-[SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
-Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
-Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
-Laos Science Educational Volunteer (2017.11 - 2018.01)
+ - [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
+ - Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
+ - Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
+ - Laos Science Educational Volunteer (2017.11 - 2018.01)
 <br><br>
 
 ---
