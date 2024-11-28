@@ -11,9 +11,9 @@ Seoul National University
 # 📖 **Table of Contents**
 
 - [📖 Education](#-education)
-- [💡 Project Experience](#-project-experience)
-- [🚩 Leadership Experience](#-leadership-experience)
+- [💡 Career](#-career)
 - [🚩 Volunteer work](#-volunteer-work)
+- [🚩 Leadership Experience](#-leadership-experience)
 - [💻 Skills and Interests](#-skills-and-interests)
 - [📬 Contact](#-contact)
 <br>
@@ -62,7 +62,7 @@ Seoul National University
 
 ---
 
-## 💡 Project Experience
+## 💡 Career
 ### **Bachelor's thesis**
 🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model  
 📅 **Duration:** 2024.09 - 2024.12
@@ -84,18 +84,6 @@ Seoul National University
 
 ---
 
-## 🚩 Leadership Experience
-### **Team Manager** 
- - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - 2024.12)  
- - SQRT Study Group (2024.09 - 2024.12)
-### **Squad Leader**
- - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
-### **Vice President**
- - Rural Systems Engineering (2021.03 - 2021.08)  
-<br><br>
-
----
-
 ## 🚩 Volunteer work
 ### 📖 Educational Volunteer 
  - [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
@@ -104,6 +92,18 @@ Seoul National University
    
 ### 🛡️ Military Service
  - Airman (Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
+<br><br>
+
+---
+
+## 🚩 Leadership Experience
+### **Team Manager** 
+ - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - 2024.12)  
+ - SQRT Study Group (2024.09 - 2024.12)
+### **Squad Leader**
+ - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
+### **Vice President**
+ - Rural Systems Engineering (2021.03 - 2021.08)  
 <br><br>
 
 ---
