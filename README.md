@@ -70,7 +70,7 @@ Seoul National University
   
 ### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
 🎓 **Topic:** PEB structure standardization  
-📅 **Duration:** 2024.07 - Present
+📅 **Duration:** 2024.07 - 2024.12
 
   
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
@@ -86,8 +86,8 @@ Seoul National University
 
 ## 🚩 Leadership Experience
 ### **Team Manager** 
- - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
- - SQRT Study Group (2024.09 - Present)
+ - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - 2024.12)  
+ - SQRT Study Group (2024.09 - 2024.12)
 ### **Squad Leader**
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
 ### **Vice President**
