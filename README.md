@@ -70,8 +70,9 @@ Seoul National University
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
-### **Patent Application**
-📅 **Duration:** 2017.09 - 2018.02
+### **Patent Application (Application # : 10-2017-0158027)**
+🎓 **Topic:** Synthesis Substitution Tool
+📅 **Duration:** 2017.09 - 2017.12
 <br><br>
 
 ---
