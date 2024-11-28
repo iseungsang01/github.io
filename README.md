@@ -11,7 +11,7 @@ Seoul National University
 # 📖 **Table of Contents**
 
 - [📖 Education](#-education)
-- [💡 Career](#-career)
+- [💡 Project Experience](#-project-experience)
 - [🚩 Volunteer work](#-volunteer-work)
 - [🚩 Leadership Experience](#-leadership-experience)
 - [💻 Skills and Interests](#-skills-and-interests)
@@ -62,7 +62,7 @@ Seoul National University
 
 ---
 
-## 💡 Career
+## 💡 Project Experience
 ### **Bachelor's thesis**
 🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model  
 📅 **Duration:** 2024.09 - 2024.12
