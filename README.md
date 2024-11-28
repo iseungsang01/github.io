@@ -71,7 +71,7 @@ Seoul National University
 📅 **Duration:** 2024.09 - 2024.10
 
 ### **Patent Application (Application # : 10-2017-0158027)**
-🎓 **Topic:** Synthesis Substitution Tool
+🎓 **Topic:** Synthesis Substitution Tool  
 📅 **Duration:** 2017.09 - 2017.12
 <br><br>
 
