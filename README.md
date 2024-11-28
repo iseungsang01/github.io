@@ -35,6 +35,8 @@ Seoul National University
 ### 🏅 **Honors / Awards**  
 - [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
   🥉 *3rd Place* – Summer Semester, 2024 - Team. 구조대
+- [**Nuclear Creativity Contest**](https://www.kaeri.re.kr/artie/board/view?pageNum=3&rowCnt=10&menuId=MENU00332&schType=0&schYear=&schText=&categoryId=&continent=&country=&boardStyle=&linkId=3176)
+  🥈 2nd Place (Gold prize) - 2nd Semester, 2018 - Team. 아이존 
 <br>
 
 ---
@@ -67,6 +69,7 @@ Seoul National University
 
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
+
 <br><br>
 
 ---
