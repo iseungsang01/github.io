@@ -120,9 +120,19 @@ Seoul National University
 
 ### 🛠️ **Software**
 - **Softwares:**  
-  - Excel (including Excel Macro), PowerPoint, AutoCAD, 3dsMax, ArcGIS(Geographic Information System), OBS(Open Broadcaster Software)
+  - Excel (including Excel Macro)
+  - PowerPoint
+  - AutoCAD
+  - 3dsMax
+  - ArcGIS(Geographic Information System)
+  - OBS(Open Broadcaster Software)
+
 - **Additional Tools (Not Commonly Used):**  
-  - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS
+  - ANSYS(Geometry, Mesh, Fluent)
+  - COMSOL Multiphysics
+  - EPANET
+  - HEC-HMS
+  - K-HAS
 <br>
 
 ---
