@@ -31,15 +31,18 @@ Seoul National University
 **Major:** Physics  
 📅 **Duration:** 2017.03 - 2020.02  
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🏅 **Honors / Awards**  
 - [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
   🥉 *3rd Place* – Summer Semester, 2024 - Team. 구조대
+  
 - [**Nuclear Creativity Contest**](https://www.kaeri.re.kr/artie/board/view?pageNum=3&rowCnt=10&menuId=MENU00332&schType=0&schYear=&schText=&categoryId=&continent=&country=&boardStyle=&linkId=3176)  
   🥈 2nd Place (Gold prize) - 2nd Semester, 2018 - Team. 아이존 
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🎓 **Scholarships**  
 - **On-Campus Customized Scholarship**  
@@ -63,13 +66,16 @@ Seoul National University
 🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model  
 📅 **Duration:** 2024.09 - 2024.12
 
+  
 ### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
 🎓 **Topic:** PEB structure standardization  
 📅 **Duration:** 2024.07 - Present
 
+  
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
+  
 ### **Patent Application (Application # : 10-2017-0158027)**
 🎓 **Topic:** Synthesis Substitution Tool  
 📅 **Duration:** 2017.09 - 2017.12
@@ -78,10 +84,13 @@ Seoul National University
 ---
 
 ## 🚩 Leadership Experience
- - **Team Manager** - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)
- - **Team Manager** - SQRT Study Group (2024.09 - Present)  
- - **Squad Leader** - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
- - **Vice President** - Rural Systems Engineering (2021.03 - 2021.08)
+### **Team Manager** 
+ - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
+ - SQRT Study Group (2024.09 - Present)  
+### **Squad Leader**
+ - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
+### **Vice President**
+ - Rural Systems Engineering (2021.03 - 2021.08)  
 <br><br>
 
 ---
@@ -102,7 +111,8 @@ Seoul National University
 - **Intermediate:** Matlab
 - **Beginner:** HTML, Markdown, R
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🛠️ **Software**
 - **Softwares:**  
@@ -110,7 +120,8 @@ Seoul National University
 - **Additional Tools (Not Commonly Used):**  
   - ANSYS(Geometry, Mesh, Fluent), COMSOL Multiphysics, EPANET, HEC-RAS, HEC-HMS, K-HAS
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🏅 **Certifications & Licenses**
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (2024.11)
@@ -118,13 +129,15 @@ Seoul National University
 - Driver's License (Class 2 – Ordinary)
 - Korean History Proficiency Test
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🌍 **Languages**
 - **Korean:** Native  
 - **English:** Fluent
 <br>
-<hr style="border: 1px solid lightgray;">
+
+---
 
 ### 🎲 **Interest**
 - Educational Volunteer
@@ -132,19 +145,20 @@ Seoul National University
 - Quantum Mechanics, Qiskit
 - Economics & [Stocks](https://github.com/iseungsang01/github.io/blob/main/stocks.jpg), [Business Strategy](https://github.com/iseungsang01/github.io/blob/main/97%ED%9A%8C%20%EC%88%98%EB%A3%8C%EC%A6%9D(%EC%9D%B4%EC%8A%B9%EC%83%81_%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90).pdf)
 <br>
-<hr style="border: 1px solid lightgray;">
 
+---
 
 ### 🎲 **Clubs**
 - [Churrus](https://churrus.vercel.app/) (2021.09-2022.03, 2024.09-Present)
 - [SQRT](https://sites.google.com/view/sqrt-quantum/home) (2024.09-Present)
 <br>
-<hr style="border: 3px solid black;">
 
+---
 
 ## 📬 **Contact**
 - **Email:** [lss010330@snu.ac.kr](mailto:lss010330@snu.ac.kr)  
 - **LinkedIn:** [승상 이](https://www.linkedin.com/in/%EC%8A%B9%EC%83%81-%EC%9D%B4-55560a27a/)  
 - **GitHub:** [iseungsang01](https://github.com/iseungsang01/github.io/) 
 <br>
-<hr style="border: 3px solid black;">
+
+---
