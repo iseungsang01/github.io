@@ -22,14 +22,15 @@ Seoul National University
 
 ## 📖 **Education**
 
-### 🎓 **Seoul National University**  
-**Major:** Rural Systems Engineering & Nuclear Systems Engineering  
-📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
-📈 **Cumulative GPA:** 3.94 / 4.30  
+### 📖 **Education**
+ - 🎓 **Seoul National University**  
+  **Major:** Rural Systems Engineering & Nuclear Systems Engineering  
+  📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
+  📈 **Cumulative GPA:** 3.94 / 4.30  
 
-### 🎓 **Daejeon Science High School for the Gifted**  
-**Major:** Physics  
-📅 **Duration:** 2017.03 - 2020.02  
+ - 🎓 **Daejeon Science High School for the Gifted**  
+  **Major:** Physics  
+  📅 **Duration:** 2017.03 - 2020.02  
 <br>
 
 ---
@@ -96,10 +97,13 @@ Seoul National University
 ---
 
 ## 🚩 Volunteer work
+### 📖 Educational Volunteer 
  - [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
  - Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
- - Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
  - Laos Science Educational Volunteer (2017.11 - 2018.01)
+   
+### 🛡️ Military service
+ - Airman (Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
 <br><br>
 
 ---
