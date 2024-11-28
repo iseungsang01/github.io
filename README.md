@@ -112,8 +112,7 @@ Seoul National University
 
 ### 🖥️ **Programming Skills**
 - **Advanced:** C, Python, Arduino  
-- **Intermediate:** Matlab
-- **Beginner:** HTML, Markdown, R
+- **Intermediate:** Matlab, R, HTML, Markdown, SQL
 <br>
 
 ---
