@@ -89,8 +89,8 @@ Seoul National University
 ## 🚩 Volunteer work
 [SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
 Chungbuk Science Gifted Mentoring (2024.07 - 2024.11)  
-Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)
-Laos 
+Military service (Airman - Headquarter of Air Operation Group on 11th Fighter Wings) (2022.03 - 2023.12)  
+Laos Science Educational Volunteer (2017.11 - 2018.01)
 <br><br>
 
 ---
