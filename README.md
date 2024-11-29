@@ -1,6 +1,6 @@
 # **Seung Sang, LEE**
 
-**Bachelor Student of Nuclear Systems Engineering and Rural Systems Engineering**  
+**Bachelor Student of Nuclear Engineering and Rural Systems Engineering**  
 Seoul National University 
   
 <img src="https://raw.githubusercontent.com/iseungsang01/github.io/main/%EC%9D%B4%EC%8A%B9%EC%83%81_%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg?raw=true" alt="이승상_증명사진" width="100">
@@ -24,7 +24,7 @@ Seoul National University
 
 ### 📖 **Education**
  - 🎓 **Seoul National University**  
-  **Major:** Rural Systems Engineering & Nuclear Systems Engineering  
+  **Major:** Rural Systems Engineering & Nuclear Engineering  
   📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
   📈 **Cumulative GPA:** 3.94 / 4.30  
 
