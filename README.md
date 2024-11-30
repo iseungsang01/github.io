@@ -76,7 +76,7 @@ Seoul National University
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
-### **[Data Science Graduate School Boot camp: Computing]**
+### **Data Science Graduate School Boot camp: Computing**
 📅 **Duration:** 2024.01 - 2024.02
 
 <br><br>
