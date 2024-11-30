@@ -69,7 +69,9 @@ Seoul National University
 
   
 ### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
-🎓 **Topic:** PEB structure standardization  
+🎓 **Topic:** PEB Structure Standardization  
+📅 **Duration:** 2024.07 - 2024.08
+🎓 **Topic:** Development for Device of Structural Defect Detection with Low Cost Arduino-Based by Using AE Sensors & GNN-Based Failure Prediction Visualization Model 
 📅 **Duration:** 2024.07 - 2024.12
 
   
