@@ -76,7 +76,7 @@ Seoul National University
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
-### **Data Science Graduate School Boot camp: Computing[https://github.com/iseungsang01/github.io/blob/main/%EC%9D%B4%EC%88%98%EC%A6%9D_2023%EB%85%84%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20_%20%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%9D%B4%EC%8A%B9%EC%83%81(202%23%23%23%23%2357).pdf]**
+### **[Data Science Graduate School Boot camp: Computing](https://github.com/iseungsang01/github.io/blob/main/%EC%9D%B4%EC%88%98%EC%A6%9D_2023%EB%85%84%20%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20_%20%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%9D%B4%EC%8A%B9%EC%83%81(202%23%23%23%23%2357)).pdf**
 📅 **Duration:** 2024.01 - 2024.02
 
 <br><br>
