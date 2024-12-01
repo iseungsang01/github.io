@@ -139,7 +139,7 @@ Seoul National University
 ---
 
 ### 🏅 **Certifications & Licenses**
-- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (Advanced Data Analytics Semi-Professional) (2024.11)
+- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (Advanced Data Analytics Semi-Professional) (2024.11 - ID # : ADsP-043013461)
 - [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#) (2021.12 - ID # : 21404072966N)
 - Driver's License (Class 2 – Ordinary)
 - Korean History Proficiency Test
