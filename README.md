@@ -105,7 +105,7 @@ Seoul National University
 ### **Squad Leader**
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
 ### **Vice President**
- - Rural Systems Engineering (2021.03 - 2021.08)  
+ - Rural Systems Engineering (2021.09 - 2022.02)  
 <br><br>
 
 ---
