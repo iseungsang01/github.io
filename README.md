@@ -144,8 +144,8 @@ Corporate Analysis - Cameco (CCJ)
 
 ---
 
-### **Patent Application (Application # : 10-2017-0158027)**
-🎓 **Topic:** Synthesis Substitution Tool
+### **Patent Application**
+🎓 **Topic:** Synthesis Substitution Tool (Application # : 10-2017-0158027)
 
 --
 
