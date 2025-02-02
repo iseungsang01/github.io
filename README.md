@@ -67,7 +67,8 @@ Seoul National University
 ### **Mirae Asset Securities Internship**  
 🎓 **Topic** 
 > Industry Analysis - Nuclear Industry  
-Corporate Analysis - Cameco (CCJ)
+Corporate Analysis - Cameco (CCJ)  
++) Sub project - Data Handling and Plotting using Excel VBA
 
 📅 **Duration:** 2025.01 - 2025.02  
 
