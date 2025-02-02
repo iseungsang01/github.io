@@ -62,9 +62,13 @@ Seoul National University
 
 ---
 
-## 💡 Project Experience
+## 💡 Project Experience & Work Experience
+### **Mirae Asset Securities Internship**
+🎓 **Topic:** Corporate Analysis of Cameco(CCJ) and Nuclear Industry
+📅 **Duration:** 2025.01 - 2025.02
+
 ### **Bachelor's thesis**
-🎓 **Topic:** Development of QGNN-Based Failure Prediction Visualization Model  
+🎓 **Topic:** The Development of a Real-Time Damage Prediction Model Based on GNN and QGNN using AE Sensors
 📅 **Duration:** 2024.09 - 2024.12
 
   
@@ -113,36 +117,17 @@ Seoul National University
 ## 💻 **Skills and Interests** 
 
 ### 🖥️ **Programming Skills**
-- **Advanced:** C, Python, Arduino  
-- **Intermediate:** Matlab, R, HTML, Markdown, SQL
-<br>
-
----
-
-### 🛠️ **Software**
-- **Softwares:**  
-  - Excel (including Excel Macro)
-  - PowerPoint
-  - AutoCAD
-  - 3dsMax
-  - ArcGIS(Geographic Information System)
-  - OBS(Open Broadcaster Software)
-
-- **Additional Tools (Not Commonly Used):**  
-  - ANSYS(Geometry, Mesh, Fluent)
-  - COMSOL Multiphysics
-  - EPANET
-  - HEC-HMS
-  - K-HAS
+- **Advanced:** C, Python, Excel VBA
 <br>
 
 ---
 
 ### 🏅 **Certifications & Licenses**
+- [Certified Investment Manager](https://license.kofia.or.kr/examInfo/examInfo.do) (2025.01 - ID # : 25-000934)
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (Advanced Data Analytics Semi-Professional) (2024.11 - ID # : ADsP-043013461)
 - [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#) (2021.12 - ID # : 21404072966N)
 - Driver's License (Class 2 – Ordinary)
-- Korean History Proficiency Test
+- Korean History Proficiency Test (Level 2)
 <br>
 
 ---
