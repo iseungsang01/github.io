@@ -11,6 +11,7 @@ Seoul National University
 # 📖 **Table of Contents**
 
 - [📖 Education](#-education)
+- [💡 Work Experience](#-work-experience)
 - [💡 Project Experience](#-project-experience)
 - [🚩 Volunteer work](#-volunteer-work)
 - [🚩 Leadership Experience](#-leadership-experience)
@@ -25,8 +26,8 @@ Seoul National University
 ### 📖 **Education**
  - 🎓 **Seoul National University**  
   **Major:** Rural Systems Engineering & Nuclear Engineering  
-  📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
-  📈 **Cumulative GPA:** 3.94 / 4.30  
+  📅 **Duration:** 2020.03 - Present (Expected Graduation: August 2026)  
+  📈 **Cumulative GPA:** 3.98 / 4.30
 
  - 🎓 **Daejeon Science High School for the Gifted**  
   **Major:** Physics  
@@ -62,31 +63,42 @@ Seoul National University
 
 ---
 
-## 💡 Project Experience & Work Experience
-### **Mirae Asset Securities Internship**
-🎓 **Topic:** Corporate Analysis of Cameco(CCJ) and Nuclear Industry
-📅 **Duration:** 2025.01 - 2025.02
+## 💡 Work Experience  
+### **Mirae Asset Securities Internship**  
+🎓 **Topic** 
+> Industry Analysis - Nuclear Industry  
+Corporate Analysis - Cameco (CCJ)
 
-### **Bachelor's thesis**
-🎓 **Topic:** The Development of a Real-Time Damage Prediction Model Based on GNN and QGNN using AE Sensors
-📅 **Duration:** 2024.09 - 2024.12
+📅 **Duration:** 2025.01 - 2025.02  
+
+### **Bachelor's thesis**  
+🎓 **Topic**
+> The Development of a Real-Time Damage Prediction Model Based on GNN and QGNN using AE Sensors  
+
+📅 **Duration:** 2024.09 - 2024.12  
 
   
 ### **Undergraduate Research Student (Multiphysics Structure & Systems Engineering Lab)**  
-🎓 **Topic:** PEB Structure Standardization  
+🎓 **Topic** 
+> PEB Structure Standardization  
+
 📅 **Duration:** 2024.07 - 2024.08  
 
-🎓 **Topic:** Development for Device of Structural Defect Detection with Low Cost Arduino-Based by Using AE Sensors & GNN-Based Failure Prediction Visualization Model  
-📅 **Duration:** 2024.07 - 2024.12
+🎓 **Topic** 
+> Development for Device of Structural Defect Detection with Low Cost Arduino-Based by Using AE Sensors & GNN-Based Failure Prediction Visualization Model  
 
-  
+📅 **Duration:** 2024.07 - 2024.12
+<br>
+
+---
+
+## 💡 Project Experience 
 ### **Creating a Labyrinth Game using ChatGPT : for Beginners** [(Play)](https://www.thelabyrinth.co.kr/labyrinth/laby/viewLabyrinth.do?labyrinthSeqn=6342)  
 📅 **Duration:** 2024.09 - 2024.10
 
 ### **Data Science Graduate School Boot camp: Computing**
 📅 **Duration:** 2024.01 - 2024.02
-
-<br><br>
+<br>
 
 ---
 
@@ -110,7 +122,7 @@ Seoul National University
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
 ### **Vice President**
  - Rural Systems Engineering (2021.09 - 2022.02)  
-<br><br>
+<br>
 
 ---
 
@@ -127,7 +139,7 @@ Seoul National University
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do#none) (Advanced Data Analytics Semi-Professional) (2024.11 - ID # : ADsP-043013461)
 - [Craftsman Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921#) (2021.12 - ID # : 21404072966N)
 - Driver's License (Class 2 – Ordinary)
-- Korean History Proficiency Test (Level 2)
+- Korean History Proficiency Test Level 2 (2021.02 - ID # : 51-263143)
 <br>
 
 ---
