@@ -49,7 +49,8 @@ Seoul National University
 ### 🎓 **Scholarships**  
 - **On-Campus Customized Scholarship**  
   💰 Half – 1st Semester, 2021  
-
+  💰 Full – 1st Semester, 2025  
+  
 - **Agricultural Engineers Scholarship**  
   💰 Half – 1st Semester, 2021  
   💰 Half – 2nd Semester, 2021  
