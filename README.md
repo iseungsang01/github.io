@@ -122,7 +122,7 @@ Corporate Analysis - Cameco (CCJ)
  - SQRT Study Group (2024.09 - 2024.12)
 ### **Squad Leader**
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
-### **Vice President**
+### **Vice President of Sophomore**
  - Rural Systems Engineering (2021.09 - 2022.02)  
 <br>
 
