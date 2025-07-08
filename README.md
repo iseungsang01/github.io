@@ -121,7 +121,8 @@ Corporate Analysis - Cameco (CCJ)
 
 ## 🚩 Leadership Experience
 ### **Team Manager** 
- - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - 2024.12)  
+ - Bio-Environment Control Engineering Subject (2024.09 - 2024.12)
+ - Rural Water Systems Engineering and Design Subject (2024.09 - 2025.06)
  - SQRT Study Group (2024.09 - 2024.12)
 ### **Squad Leader**
  - Headquarter of Air Operation Group on 11th Fighter Wings (2023.02 - 2023.07)  
