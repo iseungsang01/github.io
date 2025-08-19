@@ -34,6 +34,7 @@ Seoul National University
   📅 **Duration:** 2017.03 - 2020.02  
 <br>
 
+
 ---
 
 ### 🏅 **Honors / Awards**  
@@ -49,8 +50,8 @@ Seoul National University
 - **Dean's List**  
   2nd Semester, 2024
 <br>
+  
 ---
-
 ### 🎓 **Scholarships**  
 - **On-Campus Customized Scholarship**  
   💰 Half – 1st Semester, 2021  
@@ -65,6 +66,7 @@ Seoul National University
 
 - **Sangrok Cultural Foundation Scholarship**  
   💰 Full – 2nd Semester, 2024  
+
 <br>
 
 ---
