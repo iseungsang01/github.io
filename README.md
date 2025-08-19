@@ -37,7 +37,7 @@ Seoul National University
 ---
 
 ### 🏅 **Honors / Awards**  
-- **Quantum AI Contest**
+- **Quantum AI Contest**  
   🥇 1nd Place (Grand prize) / Summer Semester, 2025 / Team. 서울대공돌이들
 
 - [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
