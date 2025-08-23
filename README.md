@@ -176,10 +176,10 @@ Corporate Analysis - Cameco (CCJ)
 ---
 
 ### 🎲 **Clubs**
-- [Churrus](https://churrus.vercel.app/) (2021.09-2022.03, 2024.09-Present)
 - [SQRT](https://sites.google.com/view/sqrt-quantum/home) (2024.09-Present)
 - [SNUVALUE](https://snuvalue.com/) (2025.03-Present)
 - [T-um](https://slashpage.com/tumconsulting?lang=ko) (2025.03-Present)
+- [Churrus](https://churrus.vercel.app/) (2021.09-2022.03, 2024.09-2025.08)
 <br>
 
 ---
