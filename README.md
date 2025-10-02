@@ -170,7 +170,7 @@ Corporate Analysis - Cameco (CCJ)
 - Educational Volunteer
 - Board Game, Mystery Books, Room Escape
 - Quantum Mechanics, Qiskit
-- Economics & [Stocks](https://glaze-frost-837.notion.site/NuScale-Power-25-09-28-27993068735680969e08c3fafc947a5d?source=copy_link), [Business Strategy](https://github.com/iseungsang01/github.io/blob/main/97%ED%9A%8C%20%EC%88%98%EB%A3%8C%EC%A6%9D(%EC%9D%B4%EC%8A%B9%EC%83%81_%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90).pdf)
+- Economics & [Stocks (Investment Report)](https://glaze-frost-837.notion.site/NuScale-Power-25-09-28-27993068735680969e08c3fafc947a5d?source=copy_link), [Business Strategy](https://github.com/iseungsang01/github.io/blob/main/97%ED%9A%8C%20%EC%88%98%EB%A3%8C%EC%A6%9D(%EC%9D%B4%EC%8A%B9%EC%83%81_%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90).pdf)
 <br>
 
 ---
