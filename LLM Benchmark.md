@@ -1,5 +1,3 @@
-    
-[TOC]  
 
 ## 세 줄 요약
 1. SOTA LLM Benchmark로는 MMLU, GPQA, HumanEval, LiveCodeBench (코딩), AIME(수학) 등이 있으며,  <a href="https://artificialanalysis.ai/?intelligence-tab=intelligence"> https://artificialanalysis.ai/?intelligence-tab=intelligence</a>에서 확인 할 수 있다.
